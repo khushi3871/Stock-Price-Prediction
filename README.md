@@ -27,4 +27,4 @@ Objective
 
 Disclaimer
 Stock prices depend on many real-world factors.  
-This project is for educational purposes and not financial advice.
+This project is for practice educational purposes and not financial advice.
